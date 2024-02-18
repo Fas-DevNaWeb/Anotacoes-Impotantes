@@ -20,4 +20,8 @@
        e praticidades dessa ferramenta, o que o ajudará a ser uma pessoa desenvolvedora com maior produtivi-
        dade e eficiência.
 
+       Observação 🔎
+       O uso da linha de comando não impede você de utilizar a interface gráfica. Com tempo e prática, você 
+       encontrará a forma de trabalho que proporciona a melhor experiência para você.
+
     */
