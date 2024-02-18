@@ -5,5 +5,5 @@
 ### Indice ###  
   [1 - Sobre Terminal](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/main/Importante/Sobre-Terminal.js "1 - Sobre Terminal") 
 
-  [1 - Sobre instalação do WS](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/main/Importante/configuracao-WSL.js "1 - Sobre instalação do WSL")
+  [2 - Sobre instalação do WSL](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/main/Importante/configuracao-WSL.js "1 - Sobre instalação do WSL")
 </html>
