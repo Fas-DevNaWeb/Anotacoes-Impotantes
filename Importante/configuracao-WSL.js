@@ -1,4 +1,4 @@
-  /*
+  
 
     LEGAL, MAS PRECISO APRENDER UNIX?
     Aqui no curso nós recomendamos que você utilize um sistema operacional Unix Based, os mais conhecidos são:
@@ -23,5 +23,5 @@
     Instalação - WSL 
     
 
-  */
+  
     

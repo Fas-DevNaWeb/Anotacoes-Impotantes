@@ -1,4 +1,4 @@
-    /*       
+         
        O que é um Terminal ?
 
        Terminal é uma interface  de linha de comando  que permite  aos usuários interagirem  com
@@ -24,4 +24,4 @@
        O uso da linha de comando não impede você de utilizar a interface gráfica. Com tempo e prática, você 
        encontrará a forma de trabalho que proporciona a melhor experiência para você.
 
-    */
+   
