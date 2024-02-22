@@ -20,3 +20,9 @@ Adicioando Chave SSH
            vai até settings,
            No canto superior esquerdo procure por: SSH end GPG Keys
            Ney ssh key  
+
+
+      Adicione uma Identidade para o historico de commits ficar registrado em seu nome.
+      
+      git config --global user.name "Seu nome"
+      git config --global user.email "seuemail@exemplo.br"
