@@ -8,4 +8,6 @@
   [2 - Sobre instalação do WSL](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/main/Importante/configuracao-WSL.js "1 - Sobre instalação do WSL")
 
   [3 - Sobre instalação do ZSH](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/main/Importante/configuracao-WSL.js "1 - Sobre instalação do ZSH")
+
+   [4 - Sobre instalação do GIT](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/main/Importante/configuracao-WSL.js "1 - Sobre instalação do GIT")
 </html>
