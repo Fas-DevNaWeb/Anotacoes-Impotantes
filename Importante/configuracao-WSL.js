@@ -14,7 +14,7 @@
     Instalação no Ambiente Windows - WSL 
     Abra o powershell do windows e digite o comando: wsl --install
     Ele vai pedir uma autorização para instalar, e preciso aceitar para instalar.
-    Ele vai começar o processo de instalação.
+    Apos a instalação reinicie o computador.
+    Abra o terminal novamente. Ele vai pedir para criar um usuário no Ubuntu e inserir sua senha.
 
-  
-    Continuar daqui.........
+    A partir dai você consegue executar comando do linux no windows.
