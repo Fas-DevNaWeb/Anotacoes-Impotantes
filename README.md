@@ -10,4 +10,6 @@
   [3 - Sobre instalação do ZSH](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/main/Importante/03_instalacaoZSH.js "1 - Sobre instalação do ZSH")
 
    [4 - Sobre instalação do GIT](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/main/Importante/04_instalacao-doGit.js "1 - Sobre instalação do GIT")
+
+   [5 - Adicionar chave SSH](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/main/Importante/05_adicionando-chaveSSH "1 - Adicionar chave SSH")
 </html>
