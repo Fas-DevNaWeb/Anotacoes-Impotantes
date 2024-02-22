@@ -1,4 +1,4 @@
-Adicioando Chave StyleSheet
+Adicioando Chave SSH
    
       Abra o terminal de sua preferencia,(bash ou zsh).E siga os seguintes passos
 
