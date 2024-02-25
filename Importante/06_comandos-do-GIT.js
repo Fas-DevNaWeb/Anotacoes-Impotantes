@@ -20,3 +20,4 @@ Comandos do GIT
   7° - git branch -D + (nome da branch) -> Deleta a branch especificada.A
 
   8° - Pull Request -> Significa subir uma branch qua ainda não tem no gitHub.
+       git push --set-upstream origin + (nome da branch)
