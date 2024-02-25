@@ -21,3 +21,7 @@ Comandos do GIT
 
   8° - Pull Request -> Significa subir uma branch qua ainda não tem no gitHub.
        git push --set-upstream origin + (nome da branch)
+
+  10 - git pull -> Verifica se a atualizações a serem baixadas entre o gitHub e seu repositório localStorage. Sempre 
+       que iniciar um projeto o ideal é dar um git pull, para verificar se não a divergencia entre o repositório local
+       e o repositório do gitHub.
