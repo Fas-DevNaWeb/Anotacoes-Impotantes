@@ -15,7 +15,7 @@
 
    [6 - Comandos do GIT](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/main/Importante/06_comandos-do-GIT.js "6 - Comandos do GIT")
 
-   <h2>Exercicios - Projetos</h2>
+   <h3>Exercicios - Projetos</h3>
 
    [7 - Pagina Spotify ](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/main/Page-Spotify/spotify.html "7 - Pagina Spotify")
 </html>
