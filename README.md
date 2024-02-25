@@ -17,5 +17,5 @@
 
    <h2>Exercicios - Projetos</h2>
 
-   [7 - Pagina Spotify ](https://github.com/tryber/od-fe-001-codigos-de-aulas/blob/main/04-contruindo-a-base-html-css/index.html "7 - Pagina Spotify")
+   [7 - Pagina Spotify ](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/main/Page-Spotify/spotify.html "7 - Pagina Spotify")
 </html>
