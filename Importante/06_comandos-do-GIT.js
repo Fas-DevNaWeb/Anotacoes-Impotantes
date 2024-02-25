@@ -1,4 +1,4 @@
-Coamndos Do Geolocation
+Comandos do GIT
 
   1° - git clone + (url do github) -> baixa o repositório para seu computador.
   2° - git commit -m "Sobre o que se trata o commit" -> Cria uma nova versão do seu codigo
