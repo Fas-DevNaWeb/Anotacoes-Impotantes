@@ -14,4 +14,8 @@
    [5 - Adicionar chave SSH](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/main/Importante/05_adicionando-chaveSSH.js "1 - Adicionar chave SSH")
 
    [6 - Comandos do GIT](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/main/Importante/06_comandos-do-GIT.js "6 - Comandos do GIT")
+
+   <h2>Exercicios - Projetos</h2>
+
+   [7 - Pagina Spotify ](https://github.com/tryber/od-fe-001-codigos-de-aulas/blob/main/04-contruindo-a-base-html-css/index.html "7 - Pagina Spotify")
 </html>
