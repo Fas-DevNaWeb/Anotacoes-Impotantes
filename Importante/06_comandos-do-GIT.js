@@ -12,4 +12,11 @@ Comandos do GIT
        você criou. É uma cópia da branch main(principal).A partir dai você trabalha na nova branch
        até quando achar necessário.Quando tudo estiver concluido você uni essa branch a branch principal.
   
-  5° - git checkout 
+  5° - git checkout  + (nome da branch que você que acessar) -> Sai da branch onde você se encontra, e entra 
+  na branch que você quer acessar.
+
+  6° - git merge -> Uni as branch atualizando, as branchs unidas ficarão iguais, até que você continue em uma delas
+       OBS: É ideal que você atualiza a main, mergeando as outras branchs nela.
+  7° - git branch -D + (nome da branch) -> Deleta a branch especificada.A
+
+  8° - Pull Request -> Significa subir uma branch qua ainda não tem no gitHub.
