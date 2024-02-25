@@ -1,0 +1,15 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+
+.plano-fundo-header {
+  background-color: black;
+}
+.logo-spotify{
+    width: 150px;
+}
+
+.links-header{
+    color: white;
+}
