@@ -12,4 +12,6 @@
    [4 - Sobre instalação do GIT](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/main/Importante/04_instalacao-doGit.js "1 - Sobre instalação do GIT")
 
    [5 - Adicionar chave SSH](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/main/Importante/05_adicionando-chaveSSH.js "1 - Adicionar chave SSH")
+
+   [6 - Comandos do GIT](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/main/Importante/05_adicionando-chaveSSH.js "6 - Comandos do GIT")
 </html>
