@@ -1,15 +1,18 @@
-* {
-  padding: 0px;
-  margin: 0px;
-}
-
-.plano-fundo-header {
+/* Inico conteiner-header*/
+.conteiner-header {
   background-color: black;
 }
-.logo-spotify{
-    width: 150px;
+.logo-spotify {
+  width: 150px;
 }
 
-.links-header{
-    color: white;
+.links-header {
+  color: white;
 }
+/* Fim conteiner-header /*
+
+/*Inicio conteiner-section-premium */
+.conteiner-section-premium {
+    background-color: rgb(22,117,222);
+}
+/* Fim conteiner-section-premium */
