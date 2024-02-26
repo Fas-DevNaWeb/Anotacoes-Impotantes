@@ -1,9 +1,10 @@
 Identifica que esse documento é do tipo html e ja suporta HTML5
 <!DOCTYPE html> 
 
-<lang="en"> -> Identifica o inicio do ducumento html e que o idioma padrão é Inglês
-<html lang="en"> 
 
+Identifica o inicio do ducumento html e que o idioma padrão é Inglês
+<html lang="en"> 
+ 
 Identifica o inicio do cabeçalho do html
 <head> 
 
