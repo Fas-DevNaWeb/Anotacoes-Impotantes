@@ -19,5 +19,5 @@
 
    <h3>Exercicios - Projetos</h3>
 
-   [7 - Pagina Spotify ](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/main/Page-Spotify/spotify.html "7 - Pagina Spotify")
+   [7 - Pagina Spotify ](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/Spotify/Importante/07_escopo-Html.js "7 - Pagina Spotify")
 </html>
