@@ -1,5 +1,5 @@
-/* Inico conteiner-header*/
-.conteiner-header {
+/* Inico conteiner-01*/
+.conteiner-01 {
   background-color: black;
 }
 .logo-spotify {
@@ -9,10 +9,28 @@
 .links-header {
   color: white;
 }
-/* Fim conteiner-header /*
+/* Fim 
 
-/*Inicio conteiner-section-premium */
-.conteiner-section-premium {
-    background-color: rgb(22,117,222);
+
+
+/*Inicio conteiner-02 */
+.conteiner-02 {
+  background-color: rgb(22, 117, 222);
 }
-/* Fim conteiner-section-premium */
+/* Fim 
+
+/* Inicio conteiner-05*/
+.conteiner-05 {
+  background-color: #efefef;
+}
+/* Fim 
+
+/* Inicio conteiner-06*/
+.conteiner-06 {
+  background-color: black;
+}
+.instagram{
+  color: white;
+  font-size: 25px;
+}
+/* Fim 
