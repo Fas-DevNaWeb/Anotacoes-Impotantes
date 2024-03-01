@@ -1,6 +1,19 @@
+*{
+margin: 0;
+padding: 0;
+}
+.fundo-div{
+  background-color: black;
+  display: flex;
+}
 /* Inico conteiner-01*/
 .conteiner-01 {
   background-color: black;
+  display: flex;
+  justify-content: space-between;
+ padding: 10px;
+ width: 80%;
+ margin: auto;
 }
 .logo-spotify {
   width: 150px;
@@ -8,9 +21,15 @@
 
 .links-header {
   color: white;
+  display: flex;
 }
-/* Fim 
+/* Fim */
 
+.links-header,li{
+  margin-right: 20px;
+  padding-top: 6px;
+  list-style: none;
+}
 
 
 /*Inicio conteiner-02 */
