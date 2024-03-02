@@ -25,3 +25,46 @@ header div {
 .logo-Spotify {
   width: 150px;
 }
+/* ----------------- Section -01 -------------------*/
+.section-premium {
+  background-color: rgb(29, 117, 222);
+  color: white;
+}
+.section-premium div {
+  width: 80%;
+  margin: auto;
+}
+.section-premium h1 {
+  font-size: 40px;
+  padding: 40px 0px;
+  
+}
+.section-premium h2 {
+  font-size: 20px;
+  padding-bottom: 40px;
+}
+
+#btn-comece-agora{
+  background-color: black;
+  color: white;
+  padding: 10px 25px;
+  border-radius: 15px;
+  border: 1px solid;
+  border-color: white;
+}
+
+#btn-ver-planos{
+  background-color: rgb(29, 117, 222);
+  color: white;
+  border-radius: 15px;
+  padding: 10px 25px;
+  border: 1px solid;
+  border-color: white;
+}
+.section-premium p{
+  margin-top: 30px;
+  padding-bottom: 30px;
+}
+.section-premium a{
+  color: white;
+}
