@@ -17,7 +17,7 @@
 
    [7 - Escopo do HTML](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/Spotify/Importante/07_escopo-Html.js "7 - Escopo do HTML")
 
-   <h3>Exercicios - Projetos</h3>
+   <h3>Exercicios - Projeto(Spotify)</h3>
 
    [8 - Pagina Spotify ](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/Spotify/Page-Spotify/spotify.html "7 - Pagina Spotify")
 
