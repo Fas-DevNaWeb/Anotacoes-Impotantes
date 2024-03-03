@@ -19,5 +19,8 @@
 
    <h3>Exercicios - Projetos</h3>
 
-   [7 - Pagina Spotify ](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/Spotify/Page-Spotify/spotify.html "7 - Pagina Spotify")
+   [8 - Pagina Spotify ](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/Spotify/Page-Spotify/spotify.html "7 - Pagina Spotify")
+
+   [9 - Css Spotify ](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/Spotify/Page-Spotify/css/spotify.css "7 - Css Spotify")
+
 </html>
