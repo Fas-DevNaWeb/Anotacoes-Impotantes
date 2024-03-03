@@ -1,7 +1,11 @@
+/* ----- Inicio css global -----*/
 * {
   padding: 0px;
   margin: 0px;
 }
+/*--- Fim css global ----*/
+
+/* ---- Inicio css header -----*/
 header {
   background-color: black;
   display: flex;
@@ -25,7 +29,10 @@ header div {
 .logo-Spotify {
   width: 150px;
 }
-/* ----------------- Section -01 -------------------*/
+/* ---- Fim css header ---*/
+
+
+/* ----- Inicio css Section premium -----*/
 .section-premium {
   background-color: rgb(29, 117, 222);
   color: white;
@@ -37,14 +44,13 @@ header div {
 .section-premium h1 {
   font-size: 40px;
   padding: 40px 0px;
-  
 }
 .section-premium h2 {
   font-size: 20px;
   padding-bottom: 40px;
 }
 
-#btn-comece-agora{
+#btn-comece-agora {
   background-color: black;
   color: white;
   padding: 10px 25px;
@@ -53,7 +59,7 @@ header div {
   border-color: white;
 }
 
-#btn-ver-planos{
+#btn-ver-planos {
   background-color: rgb(29, 117, 222);
   color: white;
   border-radius: 15px;
@@ -61,10 +67,73 @@ header div {
   border: 1px solid;
   border-color: white;
 }
-.section-premium p{
+.section-premium p {
   margin-top: 30px;
   padding-bottom: 30px;
 }
-.section-premium a{
+.section-premium a {
   color: white;
+}
+/* ----- Fim css section-premium -----*/
+
+
+/* ----- Inicio css section-why-premium -----*/
+.section-why-premium {
+  text-align: center;
+  width: 80%;
+  margin: auto;
+}
+.section-why-premium h2 {
+  font-size: 30px;
+  padding: 70px 0px;
+}
+
+.premium-items {
+  display: flex;
+  justify-content: space-evenly;
+}
+.premium-items img {
+  width: 120px;
+  padding-bottom: 10px;
+}
+.premium-items div {
+  padding: 0px 40px 50px 40px;
+}
+.premium-items h4 {
+  padding-bottom: 10px;
+}
+/* ----- Fim css section-why-premium -----*/
+
+
+/* ----- Inicio css section-chose-plan -----*/
+.section-chose-plan {
+  background-color: #efefef;
+}
+.section-chose-plan div{
+  width: 80%;
+  margin: auto;
+  text-align: center;
+
+}
+.section-chose-plan h2{
+  font-size: 30px;
+  padding: 70px;
+}
+.section-chose-plan h3{
+  font-size: 15px;
+  padding-bottom: 10px 0px;
+}
+
+.credit-cards{
+  display: flex;
+  justify-content: center;
+}
+.credit-cards img{
+  width: 25px;
+}
+/* ----- Fim css section-chose-plan ----- */
+
+/* ----- Inicio css section-plan --------*/
+.section-plan{
+  display: flex;
 }
