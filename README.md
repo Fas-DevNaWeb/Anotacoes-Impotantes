@@ -23,4 +23,6 @@
 
    [9 - Css Spotify ](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/Spotify/Page-Spotify/css/spotify.css "7 - Css Spotify")
 
+   [10 - Sobre Node ]( "10 - Sobre Node")
+
 </html>
