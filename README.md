@@ -27,4 +27,5 @@
 
    [10 - Sobre Node ](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/Spotify/Importante/08_instalacaoNode.js "10 - Sobre Node")
 
+  [11 - Instalando Node ](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/Spotify/Importante/08_instalacaoNode.js "11 - Instalando Node")
 </html>
