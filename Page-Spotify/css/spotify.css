@@ -2,7 +2,9 @@
 * {
   padding: 0px;
   margin: 0px;
+  font-family: "Montserrat", sans-serif;
 }
+
 /*--- Fim css global ----*/
 
 /* ---- Inicio css header -----*/
@@ -26,11 +28,13 @@ header div {
 .menu li {
   margin-left: 15px;
 }
+menu li:hover{
+  color: greenyellow;
+}
 .logo-Spotify {
   width: 150px;
 }
 /* ---- Fim css header ---*/
-
 
 /* ----- Inicio css Section premium -----*/
 .section-premium {
@@ -58,7 +62,9 @@ header div {
   border: 1px solid;
   border-color: white;
 }
-
+#btn-comece-agora:hover{
+  padding: 12px 30px;
+}
 #btn-ver-planos {
   background-color: rgb(29, 117, 222);
   color: white;
@@ -66,6 +72,9 @@ header div {
   padding: 10px 25px;
   border: 1px solid;
   border-color: white;
+}
+#btn-ver-planos:hover {
+  padding: 12px 30px;
 }
 .section-premium p {
   margin-top: 30px;
@@ -75,7 +84,6 @@ header div {
   color: white;
 }
 /* ----- Fim css section-premium -----*/
-
 
 /* ----- Inicio css section-why-premium -----*/
 .section-why-premium {
@@ -104,57 +112,59 @@ header div {
 }
 /* ----- Fim css section-why-premium -----*/
 
-
 /* ----- Inicio css section-chose-plan -----*/
 .section-chose-plan {
   background-color: #efefef;
 }
-.section-chose-plan div{
+.section-chose-plan div {
   width: 80%;
   margin: auto;
   text-align: center;
   margin-bottom: 15px;
 }
-.section-chose-plan h2{
+.section-chose-plan h2 {
   font-size: 30px;
   padding: 70px;
 }
-.section-chose-plan h3{
+.section-chose-plan h3 {
   font-size: 15px;
   padding-bottom: 10px 0px;
 }
 
-.credit-cards{
+.credit-cards {
   display: flex;
   justify-content: center;
 }
-.credit-cards img{
+.credit-cards img {
   width: 25px;
   margin-left: 25px;
 }
 /* ----- Fim css section-chose-plan ----- */
 
 /* ----- Inicio css section-plan --------*/
-.section-plan{
+.section-plan {
   display: flex;
+  height: 700px;
+  max-width: 900px;
+  margin: auto;
 }
 .plan-stley {
-  box-shadow: 1px 1px 5px rgb(141,141,141);
+  box-shadow: 1px 1px 5px rgb(141, 141, 141);
   border-radius: 7px;
   padding: 10px;
   display: flex;
   flex-direction: column;
   align-items: flex-start;
   height: 550px;
-  max-width: 220px;
+  max-width: 190px;
 }
-.free-month{
-background-color: rgb(12, 73, 148);
-color: white;
-border-radius: 2px;
-padding: 5px;
+.free-month {
+  background-color: rgb(12, 73, 148);
+  color: white;
+  border-radius: 2px;
+  padding: 5px;
 }
-.unique-payment{
+.unique-payment {
   color: rgb(6, 58, 121);
   border: 1px solid rgb(13, 114, 234);
   border-radius: 2px;
@@ -163,24 +173,24 @@ padding: 5px;
   font-size: 10px;
   font-weight: 900;
 }
-.price{
+.price {
   text-align: left;
 }
-.plan-stley hr{
+.plan-stley hr {
   width: 100%;
   margin: 10px 2px;
 }
-.plan-stley ol{
+.plan-stley ol {
   text-align: left;
   padding-left: 20px;
   font-size: 15px;
   margin-bottom: 20px;
-  list-style-type: '✔ ' ;
+  list-style-type: "✔ ";
 }
-.olCss li{
+.olCss li {
   margin-top: 15px;
 }
-.btn-comece-agora{
+.btn-comece-agora {
   background-color: black;
   color: white;
   padding: 10px 25px;
@@ -189,15 +199,42 @@ padding: 5px;
   border-color: white;
   margin: auto;
 }
-.conditions, .conditions a{
-  color: rgb(83,83,83);
+.conditions,
+.conditions a {
+  color: rgb(83, 83, 83);
   font-size: 10px;
 }
 /* ----- Fim css section-plan --------*/
 
-
 /* ----- Inicio css Footer --------*/
-footer{
+footer {
   background-color: black;
+  display: flex;
+  justify-content: center;
+  padding: 70px 10%;
+  color: white;
+  list-style: none;
+}
+
+footer img {
+  width: 150px;
+  padding-right: 20px;
+}
+
+footer div ul {
+  color: #919496;
+  list-style-type: none;
+}
+
+footer a {
+  color: white;
+  text-decoration: none;
+}
+footer li:nth-child(1){
+  padding-bottom: 20px;
+}
+footer li{
+  padding: 10px 20px;
+  font-size: 20px;
 }
 /* ----- Fim css Footer --------*/
