@@ -15,7 +15,12 @@
 
    [6 - Comandos do GIT](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/main/Importante/06_comandos-do-GIT.js "6 - Comandos do GIT")
 
-   <h3>Exercicios - Projetos</h3>
+   [7 - Escopo do HTML](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/Spotify/Importante/07_escopo-Html.js "7 - Escopo do HTML")
 
-   [7 - Pagina Spotify ](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/main/Page-Spotify/spotify.html "7 - Pagina Spotify")
+   <h3>Exercicios - Projeto(Spotify)</h3>
+
+   [8 - Pagina Spotify ](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/Spotify/Page-Spotify/spotify.html "7 - Pagina Spotify")
+
+   [9 - Css Spotify ](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/Spotify/Page-Spotify/css/spotify.css "7 - Css Spotify")
+
 </html>
