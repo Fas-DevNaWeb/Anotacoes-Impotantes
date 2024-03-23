@@ -1,0 +1,35 @@
+#conteiner{
+    border: 2px solid rgb(197, 196, 199);
+    display: flex;
+   flex-flow:wrap;
+   justify-content: space-evenly;
+
+    background-color: white;
+}
+#div-01{
+    border: 2px solid rgb(197, 196, 199);
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    color: #ffffff;
+    margin: 10px;
+}
+#div-02{
+    border: 2px solid rgb(197, 196, 199);
+    background-color: green;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    color: white;
+    margin: 10px;
+}
+#div-03{
+    border: 2px solid rgb(197, 196, 199);
+    background-color: blue;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    color: white;
+    margin: 10px;
+}
