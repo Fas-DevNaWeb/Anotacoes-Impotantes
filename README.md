@@ -31,13 +31,15 @@
 
 <h3>Iniciando com (JavaScript)</h3>
 
-[12 - Exercicio 01 javaScript ](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/Iniciando-javaScript/Exrecicios-javaScript/js/exercicio_01.js "12 - Exercicio 01 javaScript")
+[12 - ExeVariáveis ](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/Iniciando-javaScript/Exrecicios-javaScript/js/exercicio_01.js "12 - Variáveis")
 
-[13 - Exercicio 02 javaScript ](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/Iniciando-javaScript/Exrecicios-javaScript/js/exercicio_02.js "13 - Exercicio 02 javaScript")
+[13 - Calculos ](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/Iniciando-javaScript/Exrecicios-javaScript/js/exercicio_02.js "13 - Calculos")
 
-[14 - Exercicio 03 javaScript ](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/Iniciando-javaScript/Exrecicios-javaScript/js/exercicio_03.js "14 - Exercicio 03 javaScript")
+[14 - Condicionais](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/Iniciando-javaScript/Exrecicios-javaScript/js/exercicio_03.js "14 - Condicionais")
 
-[15 - Exercicio 04 javaScript ](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/Iniciando-javaScript/Exrecicios-javaScript/js/exercicio_04.js "15 - Exercicio 04 javaScript")
+[15 - If / Else If ](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/Iniciando-javaScript/Exrecicios-javaScript/js/exercicio_04.js "15 - If / Else If")
 
-[16 - Exercicio 05 javaScript ](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/Iniciando-javaScript/Exrecicios-javaScript/js/exercicio_05.js "16 - Exercicio 05 javaScript")
+[16 - Maior Valor ](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/Iniciando-javaScript/Exrecicios-javaScript/js/exercicio_05.js "16 - Maior Valor")
+
+[17 - Exercicio 06 javaScript ]("17 - Exercicio 06 javaScript")
 </html>
