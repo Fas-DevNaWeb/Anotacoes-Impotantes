@@ -35,6 +35,6 @@
 
 [13 - Exercicio 02 javaScript ](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/Iniciando-javaScript/Exrecicios-javaScript/js/exercicio_02.js "13 - Exercicio 02 javaScript")
 
-[13 - Exercicio 02 javaScript ](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/Iniciando-javaScript/Exrecicios-javaScript/js/exercicio_03.js "13 - Exercicio 02 javaScript")
+[14 - Exercicio 02 javaScript ](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/Iniciando-javaScript/Exrecicios-javaScript/js/exercicio_03.js "14 - Exercicio 02 javaScript")
 
 </html>
