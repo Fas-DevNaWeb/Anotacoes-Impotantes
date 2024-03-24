@@ -31,7 +31,7 @@
 
 <h3>Iniciando com (JavaScript)</h3>
 
-[12 - ExeVariáveis ](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/Iniciando-javaScript/Exrecicios-javaScript/js/exercicio_01.js "12 - Variáveis")
+[12 - ExeVariáveis ](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/Iniciando-javaScript/Exrecicios-javaScript/js/calculos.js "12 - Variáveis")
 
 [13 - Calculos ](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/Iniciando-javaScript/Exrecicios-javaScript/js/exercicio_02.js "13 - Calculos")
 
