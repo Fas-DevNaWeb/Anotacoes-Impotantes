@@ -42,4 +42,6 @@
 [16 - Maior Valor ](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/Iniciando-javaScript/Exrecicios-javaScript/js/maiorValor.js "16 - Maior Valor")
 
 [17 - Maior valor com três numeros](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/Iniciando-javaScript/Exrecicios-javaScript/js/maiorValorCom3Num.js "17 - Maior valor com três numeros")
+
+[18 - Angulos internos-Triângulo](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/Iniciando-javaScript/Exrecicios-javaScript/js/triangulo.js "18 - Angulos internos-Triângulo")
 </html>
