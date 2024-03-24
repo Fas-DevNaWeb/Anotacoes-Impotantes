@@ -39,7 +39,7 @@
 
 [15 - If / Else If ](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/Iniciando-javaScript/Exrecicios-javaScript/js/ifEelseIf.js "15 - If / Else If")
 
-[16 - Maior Valor ](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/Iniciando-javaScript/Exrecicios-javaScript/js/exercicio_05.js "16 - Maior Valor")
+[16 - Maior Valor ](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/Iniciando-javaScript/Exrecicios-javaScript/js/maiorValor.js "16 - Maior Valor")
 
 [17 - Maior valor com três numeros](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/Iniciando-javaScript/Exrecicios-javaScript/js/maiorValorCom3Num.js "17 - Maior valor com três numeros")
 </html>
