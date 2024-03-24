@@ -47,4 +47,7 @@
 
 [19 - Switch - Xadrez](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/Iniciando-javaScript/Exrecicios-javaScript/js/switch-xadrez.js "19 - Switch - Xadrez")
 
+[20 - Número par](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/Iniciando-javaScript/Exrecicios-javaScript/js/numeroPar.js "20 - Número par")
+
+
 </html>
