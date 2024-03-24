@@ -25,7 +25,7 @@
 
    <h3>Sobre Nodejs</h3>
 
-[10 - Sobre Node ](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/Spotify/Importante/08_sobreNode.js "10 - Sobre Node")
+[10 - Sobre Node ](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/Iniciando-javaScript/Importante/08_sobreNode.js "10 - Sobre Node")
 
 [11 - Instalando Node ](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/Iniciando-javaScript/Importante/08_sobreNode.js "11 - Instalando Node")
 
