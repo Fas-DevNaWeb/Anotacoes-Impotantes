@@ -33,7 +33,7 @@
 
 [12 - ExeVariáveis ](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/Iniciando-javaScript/Exrecicios-javaScript/js/calculos.js "12 - Variáveis")
 
-[13 - Calculos ](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/Iniciando-javaScript/Exrecicios-javaScript/js/exercicio_02.js "13 - Calculos")
+[13 - Calculos ](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/Iniciando-javaScript/Exrecicios-javaScript/js/calculos.js "13 - Calculos")
 
 [14 - Condicionais](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/Iniciando-javaScript/Exrecicios-javaScript/js/exercicio_03.js "14 - Condicionais")
 
