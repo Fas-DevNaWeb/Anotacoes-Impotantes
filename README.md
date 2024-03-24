@@ -45,6 +45,6 @@
 
 [18 - Angulos internos-Triângulo](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/Iniciando-javaScript/Exrecicios-javaScript/js/triangulo.js "18 - Angulos internos-Triângulo")
 
-[19 - Switch - Xadrez]("19 - Switch - Xadrez")
+[19 - Switch - Xadrez](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/Iniciando-javaScript/Exrecicios-javaScript/js/switch-xadrez.js "19 - Switch - Xadrez")
 
 </html>
