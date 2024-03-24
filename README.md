@@ -44,4 +44,7 @@
 [17 - Maior valor com três numeros](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/Iniciando-javaScript/Exrecicios-javaScript/js/maiorValorCom3Num.js "17 - Maior valor com três numeros")
 
 [18 - Angulos internos-Triângulo](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/Iniciando-javaScript/Exrecicios-javaScript/js/triangulo.js "18 - Angulos internos-Triângulo")
+
+[19 - Switch - Xadrez]("19 - Switch - Xadrez")
+
 </html>
