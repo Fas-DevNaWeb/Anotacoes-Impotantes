@@ -49,5 +49,6 @@
 
 [20 - Número par](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/Iniciando-javaScript/Exrecicios-javaScript/js/numeroPar.js "20 - Número par")
 
+[21 - Calculo do Salário Liquido](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/Iniciando-javaScript/Exrecicios-javaScript/js/calculoSalarioMinimo.js "21 - Calculo do Salário Liquido]")
 
 </html>
