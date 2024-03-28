@@ -51,4 +51,7 @@
 
 [21 - Calculo do Salário Liquido](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/Iniciando-javaScript/Exrecicios-javaScript/js/calculoSalarioMinimo.js "21 - Calculo do Salário Liquido]")
 
+[22 - Exercicio_megaSena](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/Iniciando-javaScript/Exrecicios-javaScript/js/exercicio_megaSena.js "22 - Exercicio_megaSena]")
+
+[23 - Exercicio_arry](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/Iniciando-javaScript/Exrecicios-javaScript/js/exercicio_arry.js "23 - Exercicio_arry]")
 </html>
