@@ -54,4 +54,6 @@
 [22 - Exercicio_megaSena](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/Iniciando-javaScript/Exrecicios-javaScript/js/exercicio_megaSena.js "22 - Exercicio_megaSena]")
 
 [23 - Exercicio_arry](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/Iniciando-javaScript/Exrecicios-javaScript/js/exercicio_arry.js "23 - Exercicio_arry]")
+
+[24 - Desafio * 01](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/Iniciando-javaScript/Exrecicios-javaScript/js/desafio_asteristico.js "24 - Desafio * 01")
 </html>
