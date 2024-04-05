@@ -56,4 +56,6 @@
 [23 - Exercicio_arry](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/Iniciando-javaScript/Exrecicios-javaScript/js/exercicio_arry.js "23 - Exercicio_arry]")
 
 [24 - Desafio * 01](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/Iniciando-javaScript/Exrecicios-javaScript/js/desafio_asteristico.js "24 - Desafio * 01")
+
+[25 - Desafio * 02](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/Iniciando-javaScript/Exrecicios-javaScript/js/desafio_asteristico.js "25 - Desafio * 02")
 </html>
