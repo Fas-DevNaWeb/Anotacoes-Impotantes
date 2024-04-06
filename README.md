@@ -60,4 +60,6 @@
 [25 - Desafio * 02](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/Iniciando-javaScript/Exrecicios-javaScript/js/desafio_asteristico-02.js "25 - Desafio * 02")
 
 [26 - Conceito de Função](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/Iniciando-javaScript/Exrecicios-javaScript/js/conceitoDeFuncao.js "26 - Conceito de Função")
+
+[27 - Maior e menorcom Função](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/Iniciando-javaScript/Exrecicios-javaScript/js/conceitoDeFuncao.js "27 - Maior e menorcom Função")
 </html>
