@@ -12,11 +12,13 @@ n = 5
 *****
 */
 
-let n = 8;
+let n = 5;
 
 let asteristicos = [n];
 for (let i = 0; i < n; i++) {
+    console.log();
   asteristicos[i] = "*";
 
   console.log(asteristicos.toString().replace(/,/g, " "));
 }
+
