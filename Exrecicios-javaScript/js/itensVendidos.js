@@ -28,3 +28,6 @@ const getMcInfo = () => {
 };
 console.log(getMcInfo());
 
+module.exports = {
+  getMcInfo,
+}

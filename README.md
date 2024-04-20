@@ -74,4 +74,6 @@
 [30 - Exportando e Importando Objeto](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/Iniciando-javaScript/Exrecicios-javaScript/js/exportnadoObj.js "30 - Exportando e Importando Objeto")
 
 [31 - Relatorio de Itens vendidos](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/Iniciando-javaScript/Exrecicios-javaScript/js/itensVendidos.js "31 - Relatorio de Itens vendidos")
+
+[32 - totalItensVendidos.js](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/Iniciando-javaScript/Exrecicios-javaScript/js/totalItensVendidos.js "32 - totalItensVendidos.js")
 </html>
