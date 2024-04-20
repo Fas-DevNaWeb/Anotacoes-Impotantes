@@ -31,7 +31,7 @@
 
 <h3>Iniciando com (JavaScript)</h3>
 
-[12 - ExeVariáveis ](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/Iniciando-javaScript/Exrecicios-javaScript/js/calculos.js "12 - Variáveis")
+[12 - Exemplo de Variáveis ](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/Iniciando-javaScript/Exrecicios-javaScript/js/calculos.js "12 - Variáveis")
 
 [13 - Calculos ](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/Iniciando-javaScript/Exrecicios-javaScript/js/calculos.js "13 - Calculos")
 
@@ -62,4 +62,9 @@
 [26 - Conceito de Função](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/Iniciando-javaScript/Exrecicios-javaScript/js/conceitoDeFuncao.js "26 - Conceito de Função")
 
 [27 - Maior e menorcom Função](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/Iniciando-javaScript/Exrecicios-javaScript/js/conceitoDeFuncao.js "27 - Maior e menorcom Função")
+</html>
+
+### Fixando Aprendizado Funções ###
+
+[28 - Balance](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/Iniciando-javaScript/Exrecicios-javaScript/js/balance.js "28 - Balance")
 </html>
