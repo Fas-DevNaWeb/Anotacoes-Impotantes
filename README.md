@@ -61,7 +61,7 @@
 
 [26 - Conceito de Função](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/Iniciando-javaScript/Exrecicios-javaScript/js/conceitoDeFuncao.js "26 - Conceito de Função")
 
-[27 - Maior e menorcom Função](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/Iniciando-javaScript/Exrecicios-javaScript/js/conceitoDeFuncao.js "27 - Maior e menorcom Função")
+[27 - Maior e menor com Função](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/Iniciando-javaScript/Exrecicios-javaScript/js/conceitoDeFuncao.js "27 - Maior e menor com Função")
 </html>
 
 ### Fixando Aprendizado Funções ###
@@ -72,4 +72,6 @@
 
 ### Fixando Aprendizado Objetos ###
 [30 - Exportando e Importando Objeto](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/Iniciando-javaScript/Exrecicios-javaScript/js/exportnadoObj.js "30 - Exportando e Importando Objeto")
+
+[31 - Relatorio de Itens vendidos](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/Iniciando-javaScript/Exrecicios-javaScript/js/itensVendidos.js "31 - Relatorio de Itens vendidos")
 </html>
