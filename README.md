@@ -78,4 +78,7 @@
 [32 - total de Itens Vendidos.js](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/Iniciando-javaScript/Exrecicios-javaScript/js/totalItensVendidos.js "32 - totalItensVendidos.js")
 
 [33 - pesquisa por Regiao](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/Iniciando-javaScript/Exrecicios-javaScript/js/pesquisaRegiao.js "33 - pesquisa por Regiao")
+
+### Exercícios Objeto ###
+[34 - Inserindo Dados no Objeto](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/Iniciando-javaScript/Exrecicios-javaScript/js/inserindoDadosObjeto.js "34 - Inserindo Dados no Objeto")
 </html>
