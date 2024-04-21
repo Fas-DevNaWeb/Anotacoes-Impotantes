@@ -75,5 +75,7 @@
 
 [31 - Relatorio de Itens vendidos](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/Iniciando-javaScript/Exrecicios-javaScript/js/itensVendidos.js "31 - Relatorio de Itens vendidos")
 
-[32 - totalItensVendidos.js](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/Iniciando-javaScript/Exrecicios-javaScript/js/totalItensVendidos.js "32 - totalItensVendidos.js")
+[32 - total de Itens Vendidos.js](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/Iniciando-javaScript/Exrecicios-javaScript/js/totalItensVendidos.js "32 - totalItensVendidos.js")
+
+[33 - pesquisa por Regiao](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/Iniciando-javaScript/Exrecicios-javaScript/js/pesquisaRegiao.js "33 - pesquisa por Regiao")
 </html>
