@@ -10,7 +10,7 @@ const bestInTheWorld = [2006, 2007, 2008, 2009, 2010, 2018];
 
 
 const player = {
-    name:'Maria',
+    name:'Marta',
     lastName:'Silva',
     age:34,
     medals:34,
@@ -18,3 +18,15 @@ const player = {
 }
 
 console.log(player);
+console.log("----------------------------------------------------------")
+//A jogadora Marta Silva tem 34 anos de idade”.
+
+let message = `A Jogadora ${player.name} ${lastName} tem ${age} anos de idade.`;
+console.log(message);
+
+console.log("-----------------------------------------------------------")
+
+//A jogadora Marta Silva foi eleita a melhor do mundo por 6 vezes”.
+
+let achievements = `A Jogadora ${player.name} ${lastName} foi eleita a melhor do mundo por ${player["bestInTheWorld"].length} vezes.`;
+console.log(achievements);
