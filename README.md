@@ -83,4 +83,6 @@
 [34 - Inserindo Dados no Objeto](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/Iniciando-javaScript/Exrecicios-javaScript/js/inserindoDadosObjeto.js "34 - Inserindo Dados no Objeto")
 
 [35 - Inserindo Dados no Objeto](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/Iniciando-javaScript/Exrecicios-javaScript/js/inserindoDadosObjeto.js "35 - Inserindo Dados no Objeto")
+
+[36 - Exercicio de Objeto e Funçẽs](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/Iniciando-javaScript/Exrecicios-javaScript/js/exerObjetoFuncoes.js "36 - Exercicio de Objeto e Funçẽs")
 </html>
