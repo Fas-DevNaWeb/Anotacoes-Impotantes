@@ -37,9 +37,9 @@
 
 [14 - Condicionais](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/desvendandoJavaScript/Exrecicios-javaScript/js/condicionais.js "14 - Condicionais")
 
-[15 - If / Else If ](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/Iniciando-javaScript/desvendandoJavaScript/js/ifEelseIf.js "15 - If / Else If")
+[15 - If / Else If ](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/desvendandoJavaScript/Exrecicios-javaScript/js/ifEelseIf.js "15 - If / Else If")
 
-[16 - Maior Valor ](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/Iniciando-javaScript/desvendandoJavaScript/js/maiorValor.js "16 - Maior Valor")
+[16 - Maior Valor ](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/desvendandoJavaScript/Exrecicios-javaScript/js/maiorValor.js "16 - Maior Valor")
 
 [17 - Maior valor com três numeros](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/desvendandoJavaScript/Exrecicios-javaScript/js/maiorValorCom3Num.js "17 - Maior valor com três numeros")
 
