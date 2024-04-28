@@ -66,7 +66,7 @@
 
 ### Fixando Aprendizado Funções ###
 
-[28 - Balance](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/Iniciando-javaScript/desvendandoJavaScript/js/balance.js "28 - Balance")
+[28 - Balance](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/desvendandoJavaScript/Exercicios-javaScript/js/balance.js "28 - Balance")
 
 [29 - AddClienteArray](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/desvendandoJavaScript/Exrecicios-javaScript/js/cliente.js "29 - AddClienteArray")
 
