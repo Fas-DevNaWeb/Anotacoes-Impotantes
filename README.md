@@ -57,7 +57,7 @@
 
 [24 - Desafio * 01](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/Iniciando-javaScript/desvendandoJavaScript/js/desafio_asteristico.js "24 - Desafio * 01")
 
-[25 - Desafio * 02](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/Iniciando-javaScript/desvendandoJavaScript/js/desafio_asteristico-02.js "25 - Desafio * 02")
+[25 - Desafio * 02](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/desvendandoJavaScript/js/desafio_asteristico-02.js "25 - Desafio * 02")
 
 [26 - Conceito de Função](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/desvendandoJavaScript/Exrecicios-javaScript/js/conceitoDeFuncao.js "26 - Conceito de Função")
 
