@@ -27,13 +27,13 @@
 
 [10 - Sobre Node ](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/desvendandoJavaScript/Importante/08_sobreNode.js "10 - Sobre Node")
 
-[11 - Instalando Node ](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/desvendandoJavaScript/Importante/09_instalcaoNodejs.js "11 - Instalando Node")
+[11 - Instalando Node ](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/desvendandoJavaScript/Importante/09_instalcaoNodejs.js "11 - Instalando Node")23
 
 <h3>Iniciando com (JavaScript)</h3>
 
 [12 - Exemplo de Variáveis ](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/desvendandoJavaScript/Exrecicios-javaScript/js/calculos.js "12 - Variáveis")
 
-[13 - Calculos ](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/Iniciando-javaScript/desvendandoJavaScript/js/calculos.js "13 - Calculos")
+[13 - Calculos ](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/esvendandoJavaScript/Exer/js/calculos.js "13 - Calculos")
 
 [14 - Condicionais](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/Iniciando-javaScript/desvendandoJavaScript/js/condicionais.js "14 - Condicionais")
 
@@ -80,7 +80,7 @@
 [33 - pesquisa por Regiao](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/desvendandoJavaScript/Exrecicios-javaScript/js/pesquisaRegiao.js "33 - pesquisa por Regiao")
 
 ### Exercícios Objeto ###
-[34 - Inserindo Dados no Objeto](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/Iniciando-javaScript/Exrecicios-javaScript/js/inserindoDadosObjeto.js "34 - Inserindo Dados no Objeto")
+[34 - Inserindo Dados no Objeto](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/desvendandoJavaScript/Exrecicios-javaScript/js/inserindoDadosObjeto.js "34 - Inserindo Dados no Objeto")
 
 [35 - Inserindo Dados no Objeto](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/desvendandoJavaScript/Exrecicios-javaScript/js/inserindoDadosObjeto.js "35 - Inserindo Dados no Objeto")
 
