@@ -2,7 +2,7 @@
   Imagine que você seja responsável por cuidar do sistema de entrega
   de um restaurante e que precise enviar mensagens com as informações 
   da compra. Para isso, use o seguinte código:
-*/
+*/  
 
 const order = {
   name: "Rafael Andrade",
@@ -40,17 +40,6 @@ const order = {
   },
 };
 
-const customerInfo = (fullOrder) => {
-  // Adicione abaixo as informações necessárias.
-};
-
-console.log(customerInfo(order));
-
-const orderModifier = (fullOrder) => {
-  // Adicione abaixo as informações necessárias.
-};
-
-console.log(orderModifier(order));
 
 /*
   Questão 1: Complete a função customerInfo() para que seu retorno seja:
@@ -61,8 +50,34 @@ console.log(orderModifier(order));
    na chamada da função.
 */
 
+const customerInfo = (fullOrder) => {
+  // Adicione abaixo as informações necessárias.
+  let result = `Olá, ${order.order.delivery.deliveryPerson}, entrega para: ${order.name}, Telefone: ${order.phoneNumber}, ${order.address.street}, ${order.address.number},Apartament: ${order.address.apartment}.`;
+  return result;
+};
+
+console.log(customerInfo(order));
+
+
 /*
    Questão 2: Complete a função orderModifier() para que seu retorno seja: 
+   'Olá, Luiz Silva, o valor total de seu pedido de marguerita, pepperoni 
+   e Coca-Cola Zero é R$ 50,00.'.
+*/
+
+order.order.drinks.coke.price = 5;
+order.name = 'Luiz Silva';
+
+const orderModifier = (fullOrder) => {
+   let result2 = `Olá, ${order.name} o valor total de seu pedido de marguerita, pepperoni e Coca-Cola Zero é R$ ${order.order.pizza.marguerita.price + order.order.pizza.pepperoni.price + order.order.drinks.coke.price},00`;
+   return result2;
+};
+
+console.log(orderModifier(order));
+
+
+/*
+   Questão 2: Complete a função orderModifier() para que seu retorno seja:  
    'Olá, Luiz Silva, o valor total de seu pedido de marguerita, pepperoni 
    e Coca-Cola Zero é R$ 50,00.'.
 
