@@ -68,7 +68,7 @@
 
 [28 - Balance](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/Iniciando-javaScript/desvendandoJavaScript/js/balance.js "28 - Balance")
 
-[29 - AddClienteArray](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/desvendandoJavaScript/dExrecicios-javaScript/js/cliente.js "29 - AddClienteArray")
+[29 - AddClienteArray](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/desvendandoJavaScript/Exrecicios-javaScript/js/cliente.js "29 - AddClienteArray")
 
 ### Fixando Aprendizado Objetos ###
 [30 - Exportando e Importando Objeto](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/desvendandoJavaScript/Exrecicios-javaScript/js/exportnadoObj.js "30 - Exportando e Importando Objeto")
