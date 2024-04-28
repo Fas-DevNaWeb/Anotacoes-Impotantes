@@ -35,7 +35,7 @@
 
 [13 - Calculos ](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/desvendandoJavaScript/Exrecicios-javaScript/js/calculos.js "13 - Calculos")
 
-[14 - Condicionais](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/Iniciando-javaScript/desvendandoJavaScript/js/condicionais.js "14 - Condicionais")
+[14 - Condicionais](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/desvendandoJavaScript/Exrecicios-javaScript/js/condicionais.js "14 - Condicionais")
 
 [15 - If / Else If ](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/Iniciando-javaScript/desvendandoJavaScript/js/ifEelseIf.js "15 - If / Else If")
 
