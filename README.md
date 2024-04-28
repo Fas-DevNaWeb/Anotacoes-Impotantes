@@ -45,9 +45,9 @@
 
 [18 - Angulos internos-Triângulo](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/desvendandoJavaScript/Exrecicios-javaScript/js/triangulo.js "18 - Angulos internos-Triângulo")
 
-[19 - Switch - Xadrez](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/Iniciando-javaScript/desvendandoJavaScript/js/switch-xadrez.js "19 - Switch - Xadrez")
+[19 - Switch - Xadrez](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/desvendandoJavaScript/Exrecicios-javaScript/js/switch-xadrez.js "19 - Switch - Xadrez")
 
-[20 - Número par](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/Iniciando-javaScript/desvendandoJavaScript/js/numeroPar.js "20 - Número par")
+[20 - Número par](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/desvendandoJavaScript/Exrecicios-javaScript/js/numeroPar.js "20 - Número par")
 
 [21 - Calculo do Salário Liquido](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/desvendandoJavaScript/Exrecicios-javaScript/js/calculoSalarioMinimo.js "21 - Calculo do Salário Liquido]")
 
