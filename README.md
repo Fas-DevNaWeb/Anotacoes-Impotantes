@@ -25,68 +25,68 @@
 
    <h3>Sobre Nodejs</h3>
 
-[10 - Sobre Node ](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/Iniciando-javaScript/Importante/08_sobreNode.js "10 - Sobre Node")
+[10 - Sobre Node ](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/desvendandoJavaScript/Importante/08_sobreNode.js "10 - Sobre Node")
 
-[11 - Instalando Node ](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/Iniciando-javaScript/Importante/09_instalcaoNodejs.js "11 - Instalando Node")
+[11 - Instalando Node ](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/desvendandoJavaScript/Importante/09_instalcaoNodejs.js "11 - Instalando Node")
 
 <h3>Iniciando com (JavaScript)</h3>
 
-[12 - Exemplo de Variáveis ](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/Iniciando-javaScript/Exrecicios-javaScript/js/calculos.js "12 - Variáveis")
+[12 - Exemplo de Variáveis ](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/desvendandoJavaScript/Exrecicios-javaScript/js/calculos.js "12 - Variáveis")
 
-[13 - Calculos ](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/Iniciando-javaScript/Exrecicios-javaScript/js/calculos.js "13 - Calculos")
+[13 - Calculos ](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/Iniciando-javaScript/desvendandoJavaScript/js/calculos.js "13 - Calculos")
 
-[14 - Condicionais](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/Iniciando-javaScript/Exrecicios-javaScript/js/condicionais.js "14 - Condicionais")
+[14 - Condicionais](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/Iniciando-javaScript/desvendandoJavaScript/js/condicionais.js "14 - Condicionais")
 
-[15 - If / Else If ](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/Iniciando-javaScript/Exrecicios-javaScript/js/ifEelseIf.js "15 - If / Else If")
+[15 - If / Else If ](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/Iniciando-javaScript/desvendandoJavaScript/js/ifEelseIf.js "15 - If / Else If")
 
-[16 - Maior Valor ](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/Iniciando-javaScript/Exrecicios-javaScript/js/maiorValor.js "16 - Maior Valor")
+[16 - Maior Valor ](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/Iniciando-javaScript/desvendandoJavaScript/js/maiorValor.js "16 - Maior Valor")
 
-[17 - Maior valor com três numeros](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/Iniciando-javaScript/Exrecicios-javaScript/js/maiorValorCom3Num.js "17 - Maior valor com três numeros")
+[17 - Maior valor com três numeros](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/desvendandoJavaScript/Exrecicios-javaScript/js/maiorValorCom3Num.js "17 - Maior valor com três numeros")
 
-[18 - Angulos internos-Triângulo](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/Iniciando-javaScript/Exrecicios-javaScript/js/triangulo.js "18 - Angulos internos-Triângulo")
+[18 - Angulos internos-Triângulo](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/desvendandoJavaScript/Exrecicios-javaScript/js/triangulo.js "18 - Angulos internos-Triângulo")
 
-[19 - Switch - Xadrez](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/Iniciando-javaScript/Exrecicios-javaScript/js/switch-xadrez.js "19 - Switch - Xadrez")
+[19 - Switch - Xadrez](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/Iniciando-javaScript/desvendandoJavaScript/js/switch-xadrez.js "19 - Switch - Xadrez")
 
-[20 - Número par](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/Iniciando-javaScript/Exrecicios-javaScript/js/numeroPar.js "20 - Número par")
+[20 - Número par](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/Iniciando-javaScript/desvendandoJavaScript/js/numeroPar.js "20 - Número par")
 
-[21 - Calculo do Salário Liquido](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/Iniciando-javaScript/Exrecicios-javaScript/js/calculoSalarioMinimo.js "21 - Calculo do Salário Liquido]")
+[21 - Calculo do Salário Liquido](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/desvendandoJavaScript/Exrecicios-javaScript/js/calculoSalarioMinimo.js "21 - Calculo do Salário Liquido]")
 
-[22 - Exercicio_megaSena](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/Iniciando-javaScript/Exrecicios-javaScript/js/exercicio_megaSena.js "22 - Exercicio_megaSena]")
+[22 - Exercicio_megaSena](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/desvendandoJavaScript/Exrecicios-javaScript/js/exercicio_megaSena.js "22 - Exercicio_megaSena]")
 
-[23 - Exercicio_arry](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/Iniciando-javaScript/Exrecicios-javaScript/js/exercicio_arry.js "23 - Exercicio_arry]")
+[23 - Exercicio_arry](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/Iniciando-javaScript/desvendandoJavaScript/js/exercicio_arry.js "23 - Exercicio_arry]")
 
-[24 - Desafio * 01](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/Iniciando-javaScript/Exrecicios-javaScript/js/desafio_asteristico.js "24 - Desafio * 01")
+[24 - Desafio * 01](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/Iniciando-javaScript/desvendandoJavaScript/js/desafio_asteristico.js "24 - Desafio * 01")
 
-[25 - Desafio * 02](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/Iniciando-javaScript/Exrecicios-javaScript/js/desafio_asteristico-02.js "25 - Desafio * 02")
+[25 - Desafio * 02](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/Iniciando-javaScript/desvendandoJavaScript/js/desafio_asteristico-02.js "25 - Desafio * 02")
 
-[26 - Conceito de Função](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/Iniciando-javaScript/Exrecicios-javaScript/js/conceitoDeFuncao.js "26 - Conceito de Função")
+[26 - Conceito de Função](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/desvendandoJavaScript/Exrecicios-javaScript/js/conceitoDeFuncao.js "26 - Conceito de Função")
 
-[27 - Maior e menor com Função](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/Iniciando-javaScript/Exrecicios-javaScript/js/conceitoDeFuncao.js "27 - Maior e menor com Função")
+[27 - Maior e menor com Função](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/desvendandoJavaScript/Exrecicios-javaScript/js/conceitoDeFuncao.js "27 - Maior e menor com Função")
 </html>
 
 ### Fixando Aprendizado Funções ###
 
-[28 - Balance](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/Iniciando-javaScript/Exrecicios-javaScript/js/balance.js "28 - Balance")
+[28 - Balance](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/Iniciando-javaScript/desvendandoJavaScript/js/balance.js "28 - Balance")
 
-[29 - AddClienteArray](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/Iniciando-javaScript/Exrecicios-javaScript/js/cliente.js "29 - AddClienteArray")
+[29 - AddClienteArray](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/Iniciando-javaScript/desvendandoJavaScript/js/cliente.js "29 - AddClienteArray")
 
 ### Fixando Aprendizado Objetos ###
-[30 - Exportando e Importando Objeto](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/Iniciando-javaScript/Exrecicios-javaScript/js/exportnadoObj.js "30 - Exportando e Importando Objeto")
+[30 - Exportando e Importando Objeto](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/desvendandoJavaScript/Exrecicios-javaScript/js/exportnadoObj.js "30 - Exportando e Importando Objeto")
 
-[31 - Relatorio de Itens vendidos](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/Iniciando-javaScript/Exrecicios-javaScript/js/itensVendidos.js "31 - Relatorio de Itens vendidos")
+[31 - Relatorio de Itens vendidos](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/desvendandoJavaScript/Exrecicios-javaScript/js/itensVendidos.js "31 - Relatorio de Itens vendidos")
 
-[32 - total de Itens Vendidos.js](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/Iniciando-javaScript/Exrecicios-javaScript/js/totalItensVendidos.js "32 - totalItensVendidos.js")
+[32 - total de Itens Vendidos.js](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/desvendandoJavaScript/Exrecicios-javaScript/js/totalItensVendidos.js "32 - totalItensVendidos.js")
 
-[33 - pesquisa por Regiao](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/Iniciando-javaScript/Exrecicios-javaScript/js/pesquisaRegiao.js "33 - pesquisa por Regiao")
+[33 - pesquisa por Regiao](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/desvendandoJavaScript/Exrecicios-javaScript/js/pesquisaRegiao.js "33 - pesquisa por Regiao")
 
 ### Exercícios Objeto ###
 [34 - Inserindo Dados no Objeto](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/Iniciando-javaScript/Exrecicios-javaScript/js/inserindoDadosObjeto.js "34 - Inserindo Dados no Objeto")
 
-[35 - Inserindo Dados no Objeto](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/Iniciando-javaScript/Exrecicios-javaScript/js/inserindoDadosObjeto.js "35 - Inserindo Dados no Objeto")
+[35 - Inserindo Dados no Objeto](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/desvendandoJavaScript/Exrecicios-javaScript/js/inserindoDadosObjeto.js "35 - Inserindo Dados no Objeto")
 
-[36 - Exercicio de Objeto e Funçẽs](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/Iniciando-javaScript/Exrecicios-javaScript/js/exerObjetoFuncoes.js "36 - Exercicio de Objeto e Funçẽs")
+[36 - Exercicio de Objeto e Funçẽs](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/desvendandoJavaScript/Exrecicios-javaScript/js/exerObjetoFuncoes.js "36 - Exercicio de Objeto e Funçẽs")
 
-[37 - Manipulação de Objetos](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/Iniciando-javaScript/Exrecicios-javaScript/js/manipulacaoObjeto1.js "37 - Manipulação de Objetos")
+[37 - Manipulação de Objetos](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/desvendandoJavaScript/Exrecicios-javaScript/js/manipulacaoObjeto1.js "37 - Manipulação de Objetos")
 
-[38 - Manipulação de Objetos - 2](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/Iniciando-javaScript/Exrecicios-javaScript/js/manipulacaoObjeto2.js "38 - Manipulação de Objetos - 2")
+[38 - Manipulação de Objetos - 2](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/desvendandoJavaScript/Exrecicios-javaScript/js/manipulacaoObjeto2.js "38 - Manipulação de Objetos - 2")
 </html>
