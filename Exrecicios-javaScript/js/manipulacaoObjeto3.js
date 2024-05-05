@@ -1,3 +1,8 @@
+/**
+ * Exercício 14: Manipulação de objetos (Parte 3)
+   Suponha que você esteja trabalhando para uma escola e precise fazer algumas atualizações no sistema.
+   Para isso, considere a seguinte base de dados:
+*/
 const school = {
   lessons: [
     {
@@ -26,49 +31,26 @@ const school = {
   ],
 };
 
-/*
-    Questão 1: Crie uma função que obtenha o valor da chave de acordo com sua posição no array.
-    Essa função deve possuir dois parâmetros: o objeto e a posição no array.
-*/
+/**
+ * Questão 1: Crie uma função que obtenha o valor da chave de acordo com sua posição no array.
+ * Essa função deve possuir dois parâmetros: o objeto e a posição no array.
+ */
 
-function obterObj(obj, pos) {
-  return obj.lessons[pos];
-}
+console.log(
+  "Questão 1: -------------------------------------------------------------------------"
+);
 
-console.log("-----------------------------------------------------");
-console.log(obterObj(school, 3));
+function getKeyValue(obj, pos, key) {
+  const keyValue = obj.lessons[pos];
+  const vetor = Object.keys(keyValue);
+  const vetor2 = Object.values(keyValue);
 
-// Questão 2: Crie uma função que retorne a soma do número total de estudantes em todos os cursos.
-let sumStudants = (obj) => {
-  let sum = 0;
-  for (let i = 0; i < obj.lessons.length; i++) {
-    sum += obj.lessons[i].students;
-  }
-  return sum;
-};
-console.log("-----------------------------------------------------");
-
-console.log(sumStudants(school));
-
-console.log("-----------------------------------------------------");
-
-/*
-  Crie uma função que verifica se uma determinada chave existe em todos os elementos do array lessons.
-  O retorno deve ser um booleano (true ou false). Essa função deve possuir dois parâmetros: o objeto e
-  o nome da chave.
-*/
-
-let keyexists = (obj, key) => {
-  let f = Object.keys(obj.lessons[0]);
-  console.log(f);
-  for (let i = 0; i < obj.lessons.length; i++) {
-    if (obj.lessons[i][key] === undefined) {
-      return false;
+  for (let i = 0; i < vetor.length; i++) {
+    if (key === vetor[i]) {
+      return `O valor da chave ${key} é : ${vetor2[i]}`;
     }
   }
-  return true;
-};
+  return false;
+}
 
-console.log(keyexists(school, 'professor'));
-
-console.log("-----------------------------------------------");
+console.log(getKeyValue(school, 2, "course"));
