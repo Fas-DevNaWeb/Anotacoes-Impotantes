@@ -120,6 +120,6 @@ const setData = (obj,nameCourse,newCourse) => {
         obj.lessons[i].course = newCourse;
       }
     }
-    return console.log(obj.lessons);
+    return obj.lessons;
 }
-setData(school,'Python','Python');
+console.log(setData(school,'Python','Php'));
