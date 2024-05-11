@@ -102,3 +102,24 @@ const checkkey = (obj, key) => {
 };
 
 console.log(checkkey(school,'students'));
+
+console.log();
+console.log(
+  "Questão 4: -----------------------------------------------------------------"
+);
+/**
+ * Questão 4: Crie uma função para alterar o turno para noite no 
+ * curso de Python. Essa função deve ter três parâmetros: a base 
+ * de dados a ser modificada, o nome do curso e o novo valor da 
+ * chave.
+ */
+
+const setData = (obj,nameCourse,newCourse) => {
+    for(let i = 0; i < obj.lessons.length;i++){
+      if(obj.lessons[i].course === nameCourse){
+        obj.lessons[i].course = newCourse;
+      }
+    }
+    return console.log(obj.lessons);
+}
+setData(school,'Python','Python');
