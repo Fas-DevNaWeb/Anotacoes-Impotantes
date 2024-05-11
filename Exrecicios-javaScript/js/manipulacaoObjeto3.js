@@ -37,7 +37,7 @@ const school = {
  */
 
 console.log(
-  "Questão 1: -------------------------------------------------------------------------"
+  "Questão 1: -----------------------------------------------------------------"
 );
 
 function getKeyValue(obj, pos, key) {
@@ -53,4 +53,52 @@ function getKeyValue(obj, pos, key) {
   return false;
 }
 
-console.log(getKeyValue(school, 2, "course"));
+console.log(getKeyValue(school, 1, "course"));
+
+console.log();
+
+console.log(
+  "Questão 2: -----------------------------------------------------------------"
+);
+/**
+ * Questão 2: Crie uma função que retorne a soma do
+ * número total de estudantes em todos os cursos.
+ */
+
+const sumStudant = (obj) => {
+  let sum = 0;
+  for (let i = 0; i < obj.lessons.length; i++) {
+    sum += obj.lessons[i].students;
+  }
+  return sum;
+};
+console.log("A soma de todos estudantes é: ", sumStudant(school));
+
+console.log();
+console.log(
+  "Questão 3: -----------------------------------------------------------------"
+);
+
+/*
+   Questão 3: Crie uma função que verifica se uma determinada
+   chave existe em todos os elementos do array lessons. O 
+   retorno deve ser um booleano (true ou false). Essa função
+   deve possuir dois parâmetros: o objeto e o nome da chave.
+   
+   return school.lessons[i].hasOwnProperty(`${key}`);
+*/
+
+const checkkey = (obj, key) => {
+  let equal = 0;
+  for (let i = 0; i < obj.lessons.length; i++) {
+    if (obj.lessons[i].hasOwnProperty(`${key}`)) {
+      equal += 1;
+    }
+  }
+  if (equal === obj.lessons.length) {
+    return true;
+  }
+  return false;
+};
+
+console.log(checkkey(school,'students'));
