@@ -91,4 +91,6 @@
 [38 - Manipulação de Objetos - 2](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/desvendandoJavaScript/Exrecicios-javaScript/js/manipulacaoObjeto2.js "38 - Manipulação de Objetos - 2")
 
 [39 - Manipulação de Objetos - 3](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/desvendandoJavaScript/Exrecicios-javaScript/js/manipulacaoObjeto3.js "39 - Manipulação de Objetos - 3")
+
+[40 - Manipulação de Objetos - 4](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/desvendandoJavaScript/Exrecicios-javaScript/js/manipulacaoObjeto4.js "40 - Manipulação de Objetos - 4")
 </html>
