@@ -93,4 +93,6 @@
 [39 - Manipulação de Objetos - 3](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/desvendandoJavaScript/Exrecicios-javaScript/js/manipulacaoObjeto3.js "39 - Manipulação de Objetos - 3")
 
 [40 - Manipulação de Objetos - 4](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/desvendandoJavaScript/Exrecicios-javaScript/js/manipulacaoObjeto4.js "40 - Manipulação de Objetos - 4")
+
+[41 - Sbre o método map](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/desvendandoJavaScript/Exrecicios-javaScript/js/sobreMetodoMap.js "41 - Sbre o método map")
 </html>
