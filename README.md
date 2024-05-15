@@ -96,5 +96,5 @@
 
 [41 - Sbre o método map](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/desvendandoJavaScript/Exrecicios-javaScript/js/sobreMetodoMap.js "41 - Sbre o método map")
 
-[42 - Sbre o método map - 2](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/desvendandoJavaScript/Exrecicios-javaScript/js/mapParte2.js "41 - Sbre o método map - 2")
+[42 - Sbre o método map - 2](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/main/Exrecicios-javaScript/js/mapParte2.js "41 - Sbre o método map - 2")
 </html>
