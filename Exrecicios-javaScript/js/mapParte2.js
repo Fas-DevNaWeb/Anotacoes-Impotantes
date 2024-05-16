@@ -26,7 +26,7 @@ const addProperty2 = (obj, propName, proValue) => {
 
     return {
       id,
-      name,
+      name, // reduzido ....
       [propName]: proValue,
     }
   });
