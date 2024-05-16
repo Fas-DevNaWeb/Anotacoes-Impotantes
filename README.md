@@ -101,4 +101,6 @@
 ### Exercícios Map() ###  
 
 [43 - Exerćicio método map - 1](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/main/Exrecicios-javaScript/js/exercicioMap1.js "43 - Exerćicio método map - 1")
+
+[44 - Exerćicio método map - 2](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/main/Exrecicios-javaScript/js/exercicioMap2.js "44 - Exerćicio método map - 2")
 </html>
