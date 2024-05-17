@@ -10,4 +10,12 @@ const numbers = [4, 9, -1, 16, -5, 25];
 Utilize o método Math.sqrt() para saber a rais quadrada de um número.
 */
 
- 
+ const numbers = [4, 9, -1, 16, -5, 25];
+
+ const raizQuadrada = (numbers) => {
+    return numbers.map((elem) => {
+
+       return  Math.sqrt(elem);
+    })
+ }
+ console.log(raizQuadrada(numbers));
