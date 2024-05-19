@@ -6,7 +6,7 @@ const data = require("./data");
 const addProperty = (obj, propName, proValue) => {
   return arrayNewProp = obj.map((cards) => {
     const id = cards.id;
-    const name = cards.name;
+    const name = cards;
 
     return {
       id: id,

@@ -3,7 +3,10 @@
  <img src="Importante/img/lg.webp" alt="logo">
  
 ### Indice ###  
-  [1 - Sobre Terminal](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/main/Importante/01_sobre-terminal.js "1 - Sobre Terminal")
+[0 - Ajuda sobre VsCode](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/main/Importante/01_sobre-terminal.js "0 - Ajuda sobre VsCode")
+
+
+[1 - Sobre Terminal](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/main/Importante/01_sobre-terminal.js "1 - Sobre Terminal")
 
 [2 - Sobre instalação do WSL](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/main/Importante/02_configuracao-WSL.js "1 - Sobre instalação do WSL")
 
@@ -106,5 +109,9 @@
 
 [45 - Exerćicio método map - 3](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/continuando-projeto/Exrecicios-javaScript/js/mapParte3.js "45 - Exerćicio método map - 3")
 
+### Exercícios filter() ###  
+
 [46 - Sobre método filter e sort - 4](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/continuando-projeto/Exrecicios-javaScript/js/filterParte1.js "46 - Exerćicio método filter e sort - 4")
+
+[47 - ExerciciSobre método filter e sort - 4](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/continuando-projeto/Exrecicios-javaScript/js/filterParte1.js "46 - Exerćicio método filter e sort - 4")
 </html>
