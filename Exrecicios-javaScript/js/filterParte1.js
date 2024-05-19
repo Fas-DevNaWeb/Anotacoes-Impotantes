@@ -53,15 +53,10 @@ const result = metSort.sort((a, b) => a - b);
  ]
 */
 
-const sortCardsByAtk = (data) => {
-  return data.filter((elem) => {
-    if (elem.hasOwnProperty('atk')) {
-      return elem;
-    }
-  });
-};
 
-const resultado = sortCardsByAtk(data.cards);
-console.log(resultado);
+const sortCardsByAtk = (data) => data
+  .filter((card) => card.atk !== undefined)
+  .map(({ name, atk }) => ({ name, atk }))
+  .sort((a, b) => a.atk - b.atk);
 
-// FALTA TERMINAR.
+console.log(sortCardsByAtk(data.cards));
