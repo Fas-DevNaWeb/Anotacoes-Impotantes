@@ -3,7 +3,7 @@
  <img src="Importante/img/lg.webp" alt="logo">
  
 ### Indice ###  
-[0 - Ajuda sobre VsCode](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/main/Importante/01_sobre-terminal.js "0 - Ajuda sobre VsCode")
+[0 - Ajuda sobre VsCode](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/continuando-projeto/Importante/00_ajudaSobreVsCode.js "0 - Ajuda sobre VsCode")
 
 
 [1 - Sobre Terminal](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/main/Importante/01_sobre-terminal.js "1 - Sobre Terminal")
