@@ -36,7 +36,32 @@ const f = (resultFilter) => {
 
 // Entendendo o método sort(); parte ....
 const metSort = [1, 6, 3, 2, 9, 8, 12, 78, 5, 4, 7, 0];
-console.log(metSort.sort());
+//console.log(metSort.sort());
 
 const result = metSort.sort((a, b) => a - b);
-console.log(result);
+//console.log(result);
+
+//console.log(data);
+
+/*
+ PEGUE TODAS AS CARTAS  QUE POSSUEM ATAQUE E COLOQUE EM ORDEM CRESCENTE
+ POR ATAQUE. MOSTRE DA SEGUINTE FORMA.
+
+ [
+  { name:'D.D. Crow', atk:100 },
+  { name: 'Eka the Flame Buddy', atk:1500},
+ ]
+*/
+
+const sortCardsByAtk = (data) => {
+  return data.filter((elem) => {
+    if (elem.hasOwnProperty('atk')) {
+      return elem;
+    }
+  });
+};
+
+const resultado = sortCardsByAtk(data.cards);
+console.log(resultado);
+
+// FALTA TERMINAR.
