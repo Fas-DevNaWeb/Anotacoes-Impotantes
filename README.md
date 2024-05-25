@@ -116,4 +116,6 @@
 [47 - Exercício Sobre método filter e sort - 4](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/continuando-projeto/Exrecicios-javaScript/js/filterParte1.js "46 - Exerćicio método filter e sort - 4")
 
 [48 - Exercício Sobre método filter e sort - 5](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/continuando-projeto/Exrecicios-javaScript/js/filterParte1.js "48 - Exerćicio método filter e sort - 5")
+
+[49 - Exercício Sobre método filter e sort - 6](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/continuando-projeto/Exrecicios-javaScript/js/filterExer48.js "49 - Exerćicio método filter e sort - 6")
 </html>

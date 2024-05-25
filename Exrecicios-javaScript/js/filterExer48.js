@@ -2,7 +2,8 @@
 Exercícios, vamos praticar?
 Vamos aplicar o que acabamos de estudar sobre os métodos filter() e sort()?
 
-Considere o seguinte array de objetos que representa uma lista de Pokémons para os exercícios à seguir:
+Considere o seguinte array de objetos que representa uma lista de Pokémons 
+para os exercícios à seguir:
 */
 const pokemons = [
     { name: 'Pikachu', type: 'Elétrico', level: 25 },
@@ -32,9 +33,30 @@ const pokemons = [
   Utilizando o método filter e object destructuring, crie uma função filterStrongPokemons 
   que retorna um novo array contendo apenas os Pokémons com nível superior a 30.
   */
- 
-  const {name} = pokemons[0].name;
-  console.log()
- const filterStrongPokemons = (pokemons) => {
 
+ //const {name,type} = pokemons[0]; 
+ // const {name} = pokemons[0].name;
+
+ const filterStrongPokemons = (pokemons) => {
+   return  pokemons.filter((elem) => {
+    return elem.level > 30;
+  })
  } 
+ console.log(filterStrongPokemons(pokemons));
+
+console.log('---------------------------------------------------')
+// Outra forma de fazer .........
+ const filterStrongPokemons1 = (pokemons) => {
+  return pokemons.filter(({ level }) => level > 30);
+};
+
+console.log(filterStrongPokemons1(pokemons));
+
+console.log("----------------------------------------------------------------------");
+
+/*
+    Exercício 21: Usando filter e map encadeados
+    Utilizando os métodos filter e map encadeados, crie uma função getStrongPokemonNames
+    que retorna um novo array contendo apenas os nomes dos Pokémons com nível superior a 50.
+*/
+
