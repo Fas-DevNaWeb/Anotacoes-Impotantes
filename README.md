@@ -121,4 +121,7 @@
 
 ### Exercícios find() ###  
 [50 - Sobre métodofind()](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/continuando-projeto/Exrecicios-javaScript/js/sobreFind.js "50 - Sobre método find()")
+
+### Exercícios foreach() ###  
+[51 - Sobre método foreach()](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/continuando-projeto/Exrecicios-javaScript/js/sobreForeach.js "51 - Sobre método foreach()")
 </html>
