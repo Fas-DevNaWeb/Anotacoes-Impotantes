@@ -124,4 +124,12 @@
 
 ### Exercícios foreach() ###  
 [51 - Sobre método foreach()](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/continuando-projeto/Exrecicios-javaScript/js/sobreForeach.js "51 - Sobre método foreach()")
+
+[52 - Exercício - 1](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/continuando-projeto/Exrecicios-javaScript/js/exercicio1.js "52 - Exercício - 1")
+
+[53 - Exercício - 2](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/continuando-projeto/Exrecicios-javaScript/js/exercicio2.js "53 - Exercício - 2")
+
+[54 - Exercício - 3](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/continuando-projeto/Exrecicios-javaScript/js/exercicio3.js "54 - Exercício - 3")
+
+[55 - Exercício - 4](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/continuando-projeto/Exrecicios-javaScript/js/exercicio4.js "55 - Exercício - 4")
 </html>
