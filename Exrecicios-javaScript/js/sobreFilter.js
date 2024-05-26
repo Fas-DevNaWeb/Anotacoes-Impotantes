@@ -1,3 +1,8 @@
+/**
+ * Caracteristica -> O método filter(); retorna um array de elementos inteiro, com todas condições encontradas 
+ * conforme as regras passada pela callback.
+ */
+
 const data = require("./data");
 
 //console.log(data);

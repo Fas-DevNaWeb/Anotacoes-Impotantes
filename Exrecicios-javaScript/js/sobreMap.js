@@ -1,3 +1,9 @@
+/**
+ * Caracteristica -> O método map retorna um array modificado conforme a regra passada pela callback.
+ */
+
+
+
 /*
 Exercícios, vamos praticar?
 Vamos aplicar o que acabamos de estudar sobre método map()?
