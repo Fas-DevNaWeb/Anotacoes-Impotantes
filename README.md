@@ -97,9 +97,9 @@
 
 [40 - Manipulação de Objetos - 4](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/main/Exrecicios-javaScript/js/manipulacaoObjeto4.js "40 - Manipulação de Objetos - 4")
 
-[41 - Sbre o método map](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/main/Exrecicios-javaScript/js/sobreMetodoMap.js "41 - Sbre o método map")
+[41 - Sobre o método map](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/main/Exrecicios-javaScript/js/sobreMetodoMap.js "41 - Sbre o método map")
 
-[42 - Sbre o método map - 2](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/main/Exrecicios-javaScript/js/mapParte2.js "41 - Sbre o método map - 2")
+[42 - Sobre o método map - 2](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/main/Exrecicios-javaScript/js/mapParte2.js "41 - Sbre o método map - 2")
 
 ### Exercícios Map() ###  
 
@@ -111,14 +111,14 @@
 
 ### Exercícios filter() ###  
 
-[46 - Sobre método filter e sort - 4](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/continuando-projeto/Exrecicios-javaScript/js/sobreFilter.js "46 - Exerćicio método filter e sort - 4")
+[46 - Sobre método filter e sort ](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/continuando-projeto/Exrecicios-javaScript/js/sobreFilter.js "46 - Exerćicio método filter e sort - 4")
 
-[47 - Exercício Sobre método filter e sort - 4](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/continuando-projeto/Exrecicios-javaScript/js/filterParte1.js "46 - Exerćicio método filter e sort - 4")
+[47 - Exercício Sobre método filter e sort - 4](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/continuando-projeto/Exrecicios-javaScript/js/filterParte1.js "46 - Exerćicio método filter e sort")
 
 [48 - Exercício Sobre método filter e sort - 5](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/continuando-projeto/Exrecicios-javaScript/js/filterParte1.js "48 - Exerćicio método filter e sort - 5")
 
 [49 - Exercício Sobre método filter e sort - 6](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/continuando-projeto/Exrecicios-javaScript/js/filterExer48.js "49 - Exerćicio método filter e sort - 6")
 
 ### Exercícios find() ###  
-[50 - Sobre métodofind()](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/continuando-projeto/Exrecicios-javaScript/js/sobreFind.js "50 - Sobre métodofind()")
+[50 - Sobre métodofind()](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/continuando-projeto/Exrecicios-javaScript/js/sobreFind.js "50 - Sobre método find()")
 </html>
