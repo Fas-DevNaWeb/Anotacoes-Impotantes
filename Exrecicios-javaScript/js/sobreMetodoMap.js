@@ -1,3 +1,7 @@
+/**
+ * Caracteristica -> O método map retorna um array modificado conforme a regra passada pela callback.
+ */
+
 const data = require('./data');
 
 const arrayNovo = [];
