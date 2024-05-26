@@ -6,3 +6,7 @@
 /**
  * O método filter(); ele retorna um array com o  objeto inteiro apenas retorna conforme a regra passada.
  */
+
+/**
+ *  O método sort(); ordena de ordem crescente ou decrescente de acordo com sua aplicação.
+ */
