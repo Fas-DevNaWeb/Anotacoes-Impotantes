@@ -3,7 +3,7 @@
  <img src="Importante/img/lg.webp" alt="logo">
  
 ### Indice ###  
-[0 - Ajuda sobre VsCode](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/continuando-projeto/Importante/00_ajudaSobreVsCode.js "0 - Ajuda sobre VsCode")
+[0 - Ajuda sobre VsCode](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/main/Importante/00_ajudaSobreVsCode.js "0 - Ajuda sobre VsCode")
 
 
 [1 - Sobre Terminal](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/main/Importante/01_sobre-terminal.js "1 - Sobre Terminal")
@@ -103,33 +103,33 @@
 
 ### Exercícios Map() ###  
 
-[43 - Exercício método map - 1](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/continuando-projeto/Exrecicios-javaScript/js/sobreMap.js "43 - Exerćicio método map - 1")
+[43 - Exercício método map - 1](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/main/Exrecicios-javaScript/js/sobreMap.js "43 - Exerćicio método map - 1")
 
-[44 - Exercício método map - 2](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/continuando-projeto/Exrecicios-javaScript/js/exercicioMap2.js "44 - Exerćicio método map - 2")
+[44 - Exercício método map - 2](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/main/Exrecicios-javaScript/js/exercicioMap2.js "44 - Exerćicio método map - 2")
 
-[45 - Exerćicio método map - 3](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/continuando-projeto/Exrecicios-javaScript/js/mapParte3.js "45 - Exerćicio método map - 3")
+[45 - Exerćicio método map - 3](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/main/Exrecicios-javaScript/js/mapParte3.js "45 - Exerćicio método map - 3")
 
 ### Exercícios filter() ###  
 
-[46 - Sobre método filter e sort ](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/continuando-projeto/Exrecicios-javaScript/js/sobreFilter.js "46 - Exerćicio método filter e sort - 4")
+[46 - Sobre método filter e sort ](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/main/Exrecicios-javaScript/js/sobreFilter.js "46 - Exerćicio método filter e sort - 4")
 
-[47 - Exercício Sobre método filter e sort - 4](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/continuando-projeto/Exrecicios-javaScript/js/sobreFilter.js "46 - Exerćicio método filter e sort")
+[47 - Exercício Sobre método filter e sort - 4](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/main/Exrecicios-javaScript/js/sobreFilter.js "46 - Exerćicio método filter e sort")
 
-[48 - Exercício Sobre método filter e sort - 5](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/continuando-projeto/Exrecicios-javaScript/js/sobreFilter.js "48 - Exerćicio método filter e sort - 5")
+[48 - Exercício Sobre método filter e sort - 5](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/main/Exrecicios-javaScript/js/sobreFilter.js "48 - Exerćicio método filter e sort - 5")
 
-[49 - Exercício Sobre método filter e sort - 6](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/continuando-projeto/Exrecicios-javaScript/js/filterExer48.js "49 - Exerćicio método filter e sort - 6")
+[49 - Exercício Sobre método filter e sort - 6](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/main/Exrecicios-javaScript/js/filterExer48.js "49 - Exerćicio método filter e sort - 6")
 
 ### Exercícios find() ###  
-[50 - Sobre métodofind()](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/continuando-projeto/Exrecicios-javaScript/js/sobreFind.js "50 - Sobre método find()")
+[50 - Sobre métodofind()](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/main/Exrecicios-javaScript/js/sobreFind.js "50 - Sobre método find()")
 
 ### Exercícios foreach() ###  
-[51 - Sobre método foreach()](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/continuando-projeto/Exrecicios-javaScript/js/sobreForeach.js "51 - Sobre método foreach()")
+[51 - Sobre método foreach()](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/main/Exrecicios-javaScript/js/sobreForeach.js "51 - Sobre método foreach()")
 
-[52 - Exercício - 1](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/continuando-projeto/Exrecicios-javaScript/js/exercicio1.js "52 - Exercício - 1")
+[52 - Exercício - 1](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/main/Exrecicios-javaScript/js/exercicio1.js "52 - Exercício - 1")
 
-[53 - Exercício - 2](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/continuando-projeto/Exrecicios-javaScript/js/exercicio2.js "53 - Exercício - 2")
+[53 - Exercício - 2](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/main/Exrecicios-javaScript/js/exercicio2.js "53 - Exercício - 2")
 
-[54 - Exercício - 3](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/continuando-projeto/Exrecicios-javaScript/js/exercicio3.js "54 - Exercício - 3")
+[54 - Exercício - 3](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/main/Exrecicios-javaScript/js/exercicio3.js "54 - Exercício - 3")
 
-[55 - Exercício - 4](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/continuando-projeto/Exrecicios-javaScript/js/exercicio4.js "55 - Exercício - 4")
+[55 - Exercício - 4](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/main/Exrecicios-javaScript/js/exercicio4.js "55 - Exercício - 4")
 </html>
