@@ -9,4 +9,6 @@
 *  O método sort(); ordena de ordem crescente ou decrescente de acordo com sua aplicação.
 
 *  O método find(); Retorna o primeiro elemento encontrado conforme a regra passada.Não retorna um array.
+
+   O metodo foreach(); Modifica os elementos do array, porem não retorna nada.
  */
