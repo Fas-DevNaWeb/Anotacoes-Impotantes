@@ -1,5 +1,9 @@
-const data = require('./data');
 
+
+const data = require('./data');
+/**
+ * Caracteristica -> O método map retorna um array modificado conforme a regra passada pela callback.
+ */
 const arrayNovo = [];
 
 for(let i = 0; i < data.types.length;i++){
