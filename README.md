@@ -20,12 +20,6 @@
 
 [7 - Escopo do HTML](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/main/Importante/07_escopo-Html.js "7 - Escopo do HTML")
 
-   <h3>Exercicio - Projeto(Spotify)</h3>
-
-[8 - Pagina Spotify ](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/main/Page-Spotify/spotify.html "7 - Pagina Spotify")
-
-[9 - Css Spotify ](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/main/Page-Spotify/css/spotify.css "7 - Css Spotify")
-
    <h3>Sobre Nodejs</h3>
 
 [10 - Sobre Node ](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/main/Importante/08_sobreNode.js "10 - Sobre Node")
