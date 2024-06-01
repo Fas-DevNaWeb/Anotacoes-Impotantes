@@ -1,0 +1,104 @@
+main {
+    display: flex;
+    width: 511px;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 32px;
+    margin-left: 100px;
+}
+
+/*---  INICIO IDENTIFICAÇÃO  ---*/
+.envie-seu-pedido {
+    color: var(--orange-8, #E8590C);
+    font-family: Inter;
+    font-size: 34px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 130%;
+}
+
+.div-identificacao {
+    display: flex;
+    width: 511px;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 16px;
+}
+
+.logo-identificacao {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+}
+
+.div-identificacao h4 {
+    color: var(--other-black, #000);
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 145%;
+}
+
+.inputs-identificacao {
+    display: flex;
+    width: 511px;
+    align-items: flex-start;
+    gap: 16px;
+}
+
+/* Voce consegue direcionar a mesma folha de estilo para mais de um elemento
+   colocando a (virgula) e o nome do próximo elemento
+*/
+.input-name,
+.input-email {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 5px;
+}
+
+.inputs-identificacao label {
+    color: var(--gray-9, #212529);
+
+    / font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px;
+}
+
+/*
+  Aqui você especificou uma folha de estilo unica para esses dois inputs selecionado,
+  o que indica não sera aplicado para todos inputs Ex:input[type="text"] .... */
+.inputs-identificacao input[type="text"],
+.inputs-identificacao input[type="email"] {
+    color: var(--other-black, #000);
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 40px;
+    border-radius: 8px;
+    border: 1px solid #CED4DA;
+}
+
+/*---  INICIO TAMANHO  ---*/
+.tamanho {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 16px;
+    align-self: stretch;
+}
+
+.div-opcoes-lanches {
+    display: flex;
+    height: 69.369px;
+    padding: 8px 16px;
+    justify-content: space-between;
+    align-items: center;
+    align-self: stretch;
+}
