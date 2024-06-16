@@ -1,6 +1,6 @@
  <html>
- <h2 style="Color:red">Anotações de Estudo</h2> 
- <img src="estudante-prova.webp" alt="imangem-anotações">
+ <h1 style="Color:red">Anotações de Estudo</h1> 
+ 
  
 ### Indice ###  
 [0 - Ajuda sobre VsCode](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/main/Importante/00_ajudaSobreVsCode.js "0 - Ajuda sobre VsCode")
