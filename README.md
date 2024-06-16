@@ -1,6 +1,7 @@
  <html>
- <h2 style="Color:red">Anotações de Estudo/h2> 
-
+ <h2 style="Color:red">Anotações de Estudo</h2> 
+ <img src="images.jpeg" alt="imangem-anotações">
+ 
 ### Indice ###  
 [0 - Ajuda sobre VsCode](https://github.com/Fas-DevNaWeb/Trybe-exercicios/blob/main/Importante/00_ajudaSobreVsCode.js "0 - Ajuda sobre VsCode")
 
